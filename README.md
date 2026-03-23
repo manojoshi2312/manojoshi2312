@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Manojoshigeorge</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Insights;Data+Cleaning+%7C+Visualization"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+Excel;Turning+Data+into+Insights;Data+Cleaning+%7C+Visualization"/>
 </p>
 
 ---
