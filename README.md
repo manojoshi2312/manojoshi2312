@@ -26,14 +26,14 @@ class DataAnalyst:
 
 me = DataAnalyst()
 print(me.goal())
+
 ## 🛠️ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
-<img src="https://img.icons8.com/color/60/power-bi.png"/>
-<img src="https://img.icons8.com/color/60/ms-excel.png"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-</p>
+
+![Python](https://skillicons.dev/icons?i=python)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![Power BI](https://img.icons8.com/color/48/power-bi.png)
+![Excel](https://img.icons8.com/color/48/ms-excel.png)
+
 ## 📊 Excel Skills
 ✔ Pivot Tables  
 ✔ VLOOKUP / XLOOKUP  
