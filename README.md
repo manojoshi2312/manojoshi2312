@@ -35,6 +35,25 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojoshi2312&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🗄️ E-Commerce Customer Churn Analysis (SQL)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+🔹 Analyzed customer churn data using SQL queries  
+🔹 Identified patterns in customer behavior  
+🔹 Used joins and aggregations  
+
+🔗 [View Project](https://github.com/manojoshi2312/E--commerce-customer-churn-project-SQL-)
 
 ### 📫 Connect with me
 
@@ -43,14 +62,6 @@
 💻 GitHub: https://github.com/manojoshi2312  
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojoshi2312&show_icons=true&theme=radical" />
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manojoshi2312&layout=compact&theme=dracula&hide=jupyter%20notebook" />
