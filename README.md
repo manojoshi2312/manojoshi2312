@@ -55,6 +55,19 @@
 
 🔗 [View Project](https://github.com/manojoshi2312/E--commerce-customer-churn-project-SQL-)
 
+### 📈 Salary Trends in Data Field Careers
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+🔹 Analyzed salary trends across data-related roles  
+🔹 Explored factors like experience, skills, and job roles  
+🔹 Identified demand for high-paying skills like Python & SQL  
+🔹 Provided insights into career growth in data field  
+
+🔗 [View Project](https://github.com/manojoshi2312/Salary-Trends-in-Data-field-Careers)
+
+
 ### 📫 Connect with me
 
 📧 Email: joshigeorge2101@gmail.com  
