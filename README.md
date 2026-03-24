@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Manojoshigeorge&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+<!-- 🔥 Custom Banner -->
+<p align="center">
+  <img src="https://www.rawpixel.com/image/12341284/image-face-person-cartoon" width="100%" />
+</p>
 
 <h2 align="center">👋 Hi, I'm Manojoshigeorge</h2>
 
