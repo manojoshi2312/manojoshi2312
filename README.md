@@ -1,7 +1,5 @@
 <!-- 👋 About Me with Right Side Photo -->
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="https://drive.google.com/uc?export=view&id=1pbaVCBERY5ddQURr1GEyvBVeNGZk13Qr" width="250"/>
 
 ### 👋 Hi, I'm Manojoshigeorge  
 
@@ -10,8 +8,7 @@
 📊 Skilled in Python, SQL, Excel, Power BI  
 📈 Passionate about data cleaning & visualization  
 
-</td>
-
+<br clear="right"/>
 <td width="40%" align="center">
   <img src="https://drive.google.com/uc?export=view&id=1pbaVCBERY5ddQURr1GEyvBVeNGZk13Qr" width="250" style="border-radius: 10px;" />
 </td>
