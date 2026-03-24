@@ -8,14 +8,6 @@
 📊 Skilled in Python, SQL, Excel, Power BI  
 📈 Passionate about data cleaning & visualization  
 
-
-
-<h2 align="center">👋 Hi, I'm Manojoshigeorge</h2>
-
-<p align="center">
-💡 Aspiring Data Analyst | Turning Data into Insights 🚀
-</p>
-
 <!-- 👀 Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manojoshi2312&label=Profile%20Views&color=0e75b6&style=flat" />
