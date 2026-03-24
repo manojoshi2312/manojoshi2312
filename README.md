@@ -1,10 +1,22 @@
-<!-- 🔥 Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Manojoshigeorge&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-<!-- 🔥 Custom Banner -->
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1pbaVCBERY5ddQURr1GEyvBVeNGZk13Qr" width="100%" />
+<!-- 👋 About Me with Right Side Photo -->
+<table>
+<tr>
+<td width="60%">
+
+### 👋 Hi, I'm Manojoshigeorge  
+
+💡 Aspiring Data Analyst | Turning Data into Insights 🚀  
+
+📊 Skilled in Python, SQL, Excel, Power BI  
+📈 Passionate about data cleaning & visualization  
+
+</td>
+
+<td width="40%" align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1pbaVCBERY5ddQURr1GEyvBVeNGZk13Qr" width="250" style="border-radius: 10px;" />
+</td>
+</tr>
+</table>
 </p>
 
 <h2 align="center">👋 Hi, I'm Manojoshigeorge</h2>
