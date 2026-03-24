@@ -4,7 +4,7 @@
 </p>
 <!-- 🔥 Custom Banner -->
 <p align="center">
-  <img src="https://www.rawpixel.com/image/12341284/image-face-person-cartoon" width="100%" />
+  <img src="" />
 </p>
 
 <h2 align="center">👋 Hi, I'm Manojoshigeorge</h2>
