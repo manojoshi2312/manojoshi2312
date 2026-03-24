@@ -60,6 +60,7 @@
 </p>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manojoshi2312&layout=compact&theme=dracula&langs_count=5&hide=jupyter%20notebook" />
 
 <!-- 🔥 Footer Wave -->
 <p align="center">
