@@ -58,7 +58,7 @@
 ### 📈 Salary Trends in Data Field Careers
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 🔹 Analyzed salary trends across data-related roles  
 🔹 Explored factors like experience, skills, and job roles  
