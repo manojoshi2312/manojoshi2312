@@ -17,6 +17,7 @@
 
 <img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlzamowdDFqbWxjeDhhZzdxNDVuNmpwMW82em9kbno3YTFhYmt0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
+
 ### 🧠 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,22 +27,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 📄 Resume
-
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1aN4jfljPP6xoP3QMd9UfhknpPQXfj8fQ" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojoshi2312&show_icons=true&theme=radical" />
-</p>
-
----
 
 ## 🚀 Projects
 
@@ -67,12 +52,30 @@
 
 🔗 [View Project](https://github.com/manojoshi2312/Salary-Trends-in-Data-field-Careers)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojoshi2312&show_icons=true&theme=radical" />
+</p>
+
+---
+
 
 ### 📫 Connect with me
 
 📧 Email: joshigeorge2101@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/manojoshigeorge-j-047783346/  
 💻 GitHub: https://github.com/manojoshi2312  
+
+---
+
+### 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1aN4jfljPP6xoP3QMd9UfhknpPQXfj8fQ" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
