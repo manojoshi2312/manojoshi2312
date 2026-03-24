@@ -67,7 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manojoshi2312&layout=compact&theme=dracula&hide=jupyter%20notebook" />
 </p>
 
-
 <!-- 🔥 Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer"/>
