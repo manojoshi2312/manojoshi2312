@@ -4,7 +4,7 @@
 </p>
 <!-- 🔥 Custom Banner -->
 <p align="center">
-  <img src="" />
+  <img src="https://drive.google.com/file/d/1pbaVCBERY5ddQURr1GEyvBVeNGZk13Qr/view?usp=sharing" />
 </p>
 
 <h2 align="center">👋 Hi, I'm Manojoshigeorge</h2>
