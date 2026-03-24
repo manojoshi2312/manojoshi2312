@@ -55,11 +55,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manojoshi2312&show_icons=true&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manojoshi2312&layout=compact&theme=dracula" />
-</p>
 
----
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manojoshi2312&layout=compact&theme=dracula&hide=jupyter%20notebook" />
+</p>
 
 
 <!-- 🔥 Footer Wave -->
