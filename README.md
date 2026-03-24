@@ -3,7 +3,7 @@
 
 ### 👋 Hi, I'm Manojoshigeorge  
 
-💡 Aspiring Data Analyst | Turning Data into Insights 🚀  
+💡  Data Analyst | Turning Data into Insights 🚀  
 
 📊 Skilled in Python, SQL, Excel, Power BI  
 📈 Passionate about data cleaning & visualization  
