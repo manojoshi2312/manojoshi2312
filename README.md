@@ -52,6 +52,18 @@
 
 🔗 [View Project](https://github.com/manojoshi2312/Salary-Trends-in-Data-field-Careers)
 
+## 📊 Sales Dashboard (Power BI)
+
+Built an interactive Power BI dashboard to analyze sales, profit, and product performance using the Superstore dataset.
+
+🔹 Key Highlights:
+- Sales & profit trend analysis  
+- Top-performing categories and products  
+- Data cleaning using Power Query  
+- Insights & business recommendations  
+
+📁 [View Project](https://github.com/manojoshi2312/Business-Sales-Performance)
+
 ## 📊 GitHub Stats
 
 <p align="center">
